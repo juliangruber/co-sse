@@ -2,7 +2,9 @@
 # co-sse
 
   [Server-Sent Events](http://www.html5rocks.com/en/tutorials/eventsource/basics/)
-  generator stream
+  generator stream.
+  
+  [![build status](https://secure.travis-ci.org/juliangruber/co-sse.png)](http://travis-ci.org/juliangruber/co-sse)
 
 ## Example
 
