@@ -1,0 +1,15 @@
+{
+  "name": "co-sse",
+  "version": "0.0.0",
+  "description": "Server-Sent Events generator stream",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "juliangruber/co-sse",
+  "devDependencies": {
+    "co": "~3.0.2",
+    "mocha": "~1.17.1",
+    "co-wait": "0.0.0"
+  }
+}
